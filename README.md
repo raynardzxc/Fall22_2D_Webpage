@@ -3,9 +3,9 @@
 
 This README contains instructions to set up the webpage done as part of the BONUS section of Task 3 in the 2D project. 
 
-This webpage was built fully on React for both the front-end and back-end. 
+This webpage was built fully on React for both the front-end and back-end. This webpage is meant to serve as a tool to help predict the yield of rice in kg/ha based on a country's sustainability inputs. The back-end is a Multiple Linear Regression model that was trained in Python.
 
-You can either run the webpage locally or use it online through the following URL: 
+You can either run the webpage locally or view it online through the following URL: 
 [https://fall22-2-d-webpage.vercel.app/](https://fall22-2-d-webpage.vercel.app/)
 
 
