@@ -18,12 +18,10 @@ To run the webpage locally, you will need to install the React dependencies. Cha
 Install all dependencies.
 
 `npm install`
-`npm install -g serve`
 
-Deploy application.
+Run the app locally.
 
-`npm run build`
-`serve -s build -l 3000`
+`npm start`
 
 At the end of this step, the React webpage should be up and running.
 
