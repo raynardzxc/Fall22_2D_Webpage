@@ -1,17 +1,21 @@
 01.020 Design Thinking Project III (Task 3)
 ===
 
-This README contains instructions to set up the webpage done as part of the BONUS section of Task 3 in the 2D project.
+This README contains instructions to set up the webpage done as part of the BONUS section of Task 3 in the 2D project. 
+
+This webpage was built fully on React for both the front-end and back-end. 
+
+You can either run the webpage locally or use it online through the following url [https://fall22-2-d-webpage.vercel.app/](https://fall22-2-d-webpage.vercel.app/).
 
 # Installation
 
-This webpage was built on fully on React for both the front-end and back-end. 
+To run the webpage locally, refer to the following instructions.
 
-The top-level directory will be referred to as `$TOP`.
+The top-level directory will be referred to as `$TOP`. 
 
 ## React Set-up
 
-To run the webpage locally, you will need to install the React dependencies. Change current directory into the `ui` folder.
+Change current directory into the `ui` folder.
 
 `cd $TOP/ui`
 
