@@ -19,11 +19,7 @@ Clone this repo:
 
 `git clone https://github.com/raynardzxc/Fall22_2D_Webpage.git`
 
-`cd Fall22_2D_Webpage`
-
-Change current directory into the `ui` folder:
-
-`cd ui`
+`cd Fall22_2D_Webpage/ui`
 
 Install the dependencies:
 
